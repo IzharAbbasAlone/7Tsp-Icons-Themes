@@ -7,4 +7,4 @@ Installation: Open up 7TSP & click Add a Custom Pack & select the icon pack you 
 
 Requirements: ***Windows 10 Builds 1903 - Windows 11 current builds.***
 
-For a cleaner look use the [Folder Thumbnail Remover](https://github.com/AlisIzhar/7Tsp-Icons-Themes/blob/main/Folder%20Thumbnail%20Remover/Folder%20Thumbnail%20Remover.zip) registry hack.
+For a cleaner look use the [Folder Thumbnail Remover](https://github.com/AlisIzhar/7Tsp-Icons-Themes/raw/main/Folder%20Thumbnail%20Remover/Folder%20Thumbnail%20Remover.zip) registry hack.
